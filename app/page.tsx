@@ -188,7 +188,7 @@ export default function App() {
         </div>
 
       ),
-      "Gastroesofageal Reflux Disease (GERD) ": (
+      "Gastroesofageal Reflux Disease (GERD)": (
         <div className="mb-4">
           <ul className="list-group">
             <li className="list-group-item">
@@ -241,7 +241,7 @@ export default function App() {
         </div>
 
       ),
-      "Diare ": (
+      "Diare": (
         <div className="mb-4">
             <ul className="list-group">
               <li className="list-group-item">
@@ -397,7 +397,7 @@ export default function App() {
                       <option value="Hipertensi">Hipertensi</option>
                       <option value="Diabetes">Diabetes</option>
                       <option value="Gastroesofageal Reflux Disease (GERD)">
-                        Gastroesofageal Reflux Disease (GERD)
+                        Gastroesofageal Reflux Disease
                       </option>
                       <option value="Diare">Diare</option>
                     </select>
